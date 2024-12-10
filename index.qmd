@@ -1,9 +1,10 @@
 ---
-title: "Researcher, Critical Thinker, Dreamer"
-subtitle: "Welcome! So glad you're here."
+title: "Jacob Hill"
+subtitle: "Researcher, Critical Thinker, Dreamer"
 # use quarto markdown to 
 ---
 
+Welcome! I'm so glad you're here ☻
 <!-- # Title 1 Header
 ## Title 2 Header -->
 
