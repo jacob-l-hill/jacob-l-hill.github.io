@@ -1,8 +1,7 @@
 ---
 layout: cv
-title: Jacob Hill's CV
+title: Jacob Hill
 ---
-# Jacob Hill
 Research Specialist, Scholar
 
 <div id="webaddress">
@@ -18,21 +17,19 @@ Studying at Brigham Young University - Idaho
 
 Research, data management and analysis, communication and organization
 
-
-
 ### Research interests
 
-Sociology, demography, mental health, criminology
+Religious inequality, mental health, criminology
 
 
 
 ## Education
 
 `2023 - 2025`
-__Brigham Young University - Idaho__
+__Brigham Young University - Idaho (BS)__
 
 `2018 - 2020`
-__Rio Salado Community College__
+__Rio Salado Community College (AA, AGS)__
 
 
 
